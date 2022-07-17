@@ -1,0 +1,9 @@
+{
+  "name": "ioniclink",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/WillianDamasceno/IonicLink.git",
+  "author": "Willian Damasceno",
+  "license": "MIT",
+  "private": true
+}
