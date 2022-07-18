@@ -1,0 +1,11 @@
+{
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "jsxBracketSameLine": false,
+  "printWidth": 100,
+  "proseWrap": "preserve",
+  "insertPragma": false,
+  "requirePragma": false,
+  "trailingComma": "none"
+}

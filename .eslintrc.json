@@ -1,0 +1,15 @@
+{
+  "extends": [
+    "next/core-web-vitals"
+  ],
+  "rules": {
+    "no-console": "off",
+    "max-len": ["warn", 100],
+    "object-curly-newline": "off",
+    "no-unused-expressions": "off",
+    "consistent-return": "off",
+    "quotes": ["warn", "double"],
+    "semi": ["warn", "always"],
+    "no-trailing-spaces": "warn"
+  }
+}
